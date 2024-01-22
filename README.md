@@ -1,8 +1,8 @@
 
 # PORTFOLIO
 
-This is my portfolio website in which all my projects and skills have been mentioned.
-
+This project is made using pure HTML and CSS and animation to make it look 3D.
+This project have a Card which flips when the user hover over the card.
 
 
 ## Technologies Used
@@ -13,7 +13,7 @@ This is my portfolio website in which all my projects and skills have been menti
 ## Deployment
 
 To deploy this project run
-https://anandojha2407.github.io/Portfolio/
+https://anandojha2407.github.io/Flip_Card_Web/
 
 
 
@@ -23,7 +23,7 @@ https://anandojha2407.github.io/Portfolio/
 
 ## How to use
 
-1. Clone the repository: git clone https://github.com/AnandOjha2407/Portfolio.git
+1. Clone the repository: git clone https://github.com/AnandOjha2407/Flip_Card_Web.git
 2. Open index.html in a web browser to view the content.
 3. Customize:
 Modify the HTML and CSS file to tailor the Portfolio page for specfic branding and requirements.
