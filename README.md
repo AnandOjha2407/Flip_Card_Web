@@ -3,6 +3,7 @@
 
 This project is made using pure HTML and CSS and animation to make it look 3D.
 This project have a Card which flips when the user hover over the card.
+The project was made during learning curve of Cascading Style Sheet
 
 
 ## Technologies Used
